@@ -1,0 +1,10 @@
+PURPOSE
+This paper analyzes VOC corpora.
+
+DESIGN/METHODOLOGY/APPROACH
+Using named entity on the VOC archives to extract form of punishments in criminal cases.
+
+FINDINGS
+N/A
+
+NOVELTY
